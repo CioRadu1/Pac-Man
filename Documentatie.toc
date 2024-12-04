@@ -1,0 +1,37 @@
+\contentsline {section}{\numberline {1}Uninformed search}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Question 1 - Depth First Search}{2}{subsection.1.1}%
+\contentsline {paragraph}{}{2}{section*.2}%
+\contentsline {paragraph}{}{2}{section*.3}%
+\contentsline {subsection}{\numberline {1.2}Question 2 - Breadth First Search}{2}{subsection.1.2}%
+\contentsline {paragraph}{}{2}{section*.4}%
+\contentsline {paragraph}{}{2}{section*.5}%
+\contentsline {subsection}{\numberline {1.3}Question 3 - Varying the Cost Function}{3}{subsection.1.3}%
+\contentsline {paragraph}{}{3}{section*.6}%
+\contentsline {paragraph}{}{3}{section*.7}%
+\contentsline {section}{\numberline {2}Informed search}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Question 4 - A* Search}{3}{subsection.2.1}%
+\contentsline {paragraph}{}{3}{section*.8}%
+\contentsline {paragraph}{}{4}{section*.9}%
+\contentsline {subsection}{\numberline {2.2}Question 5 - Finding All the Corners}{4}{subsection.2.2}%
+\contentsline {paragraph}{}{4}{section*.10}%
+\contentsline {paragraph}{}{4}{section*.11}%
+\contentsline {subsection}{\numberline {2.3}Question 6 - Corners Problem: Heuristic}{5}{subsection.2.3}%
+\contentsline {paragraph}{}{5}{section*.12}%
+\contentsline {paragraph}{}{5}{section*.13}%
+\contentsline {subsection}{\numberline {2.4}Question 7 - Eating All the Dots}{5}{subsection.2.4}%
+\contentsline {paragraph}{}{5}{section*.14}%
+\contentsline {paragraph}{}{6}{section*.15}%
+\contentsline {subsection}{\numberline {2.5}Question 8 - Suboptimal Search}{6}{subsection.2.5}%
+\contentsline {paragraph}{}{6}{section*.16}%
+\contentsline {paragraph}{}{6}{section*.17}%
+\contentsline {section}{\numberline {3}Adversial search}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Question 1 - Reflex Agent}{7}{subsection.3.1}%
+\contentsline {paragraph}{}{7}{section*.18}%
+\contentsline {paragraph}{}{7}{section*.19}%
+\contentsline {subsection}{\numberline {3.2}Question 2 - MiniMax Agent}{8}{subsection.3.2}%
+\contentsline {paragraph}{}{8}{section*.20}%
+\contentsline {paragraph}{}{8}{section*.21}%
+\contentsline {subsection}{\numberline {3.3}Question 3 - Alpha-Beta Pruning Agent}{9}{subsection.3.3}%
+\contentsline {paragraph}{}{9}{section*.22}%
+\contentsline {paragraph}{}{9}{section*.23}%
+\contentsline {paragraph}{}{9}{section*.24}%
